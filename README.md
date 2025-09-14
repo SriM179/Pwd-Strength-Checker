@@ -20,4 +20,4 @@ URL:
 - Gives quick safety tips
 
 #### How to Run
-    streamlit run app.py
+    streamlit run checker.py
